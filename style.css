@@ -1,0 +1,33 @@
+#paragraph {
+  background-color:white; 
+  color:black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
+#header1 {
+  color:red
+}
+
+#header2 {
+  color:green
+}
+
+#header3 {
+  color:blue
+}
+
+#header4 {
+  color:darkred
+}
+
+div {
+  width: 1000px;
+  border: 15px solid royalblue;
+  padding: 10px solid darkblue;
+  margin: 20px;
+}
+
+#background {
+  background-color:black
+}
